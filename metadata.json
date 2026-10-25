@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis - Healthy AI Workspace",
+  "description": "Delegate the work, keep the judgement. An honest, healthy AI workspace that coaches independent thinking and tracks your deliberate progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
